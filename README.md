@@ -1,7 +1,6 @@
 <a id="readme-top"></a>
 
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/martin-havelka-810710198/]
-
+[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/martin-havelka-810710198/)
 
 
 <br />
